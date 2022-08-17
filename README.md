@@ -47,4 +47,33 @@ __What are you__ in this life?
 [Nolan Arenado][1]<br>
 [Yadier Molina][2]<br>
 [Harrison Bader][3]<br>
-![baseball](
+<kbd>
+<img src="https://github.com/GrishamR2023/AboutMe/blob/main/img/download.jfif" height="100px" width="100px">
+</kbd><br>
+
+##Favorite Terms
+
+
+
+| Terms | Definitions | My Meaning |
+| :- | :----: | ---: |
+| Baseball | a ball game played between two teams of nine on a field with a diamond-shaped circuit of four bases. | A game I've played for years. |
+| Videogames | a game played by electronically manipulating images produced by a computer program on a television screen or other display screen. | Fun activities to stimulate the brain. |
+| Computers | an electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program. | A tool for learning and fun. |
+| Coding | the process of assigning a code to something for classification or identification. | The language of solutions. |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

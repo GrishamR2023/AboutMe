@@ -3,7 +3,14 @@
 ---
 ## Summary
 
+[Disney]: https://www.disneyplus.com/home
+
 My name is Rece Grisham. I'm a student at North High School. I enjoy being able to play videogames and play sports and coding and problem solving. Technology is extremely interesting to me and I enjoy setting up computers.
+
+[1]:https://en.wikipedia.org/wiki/Nolan_Arenado
+[2]:https://en.wikipedia.org/wiki/Yadier_Molina
+[3]:https://en.wikipedia.org/wiki/Harrison_Bader
+
 
 ## Hobbies
 
@@ -33,8 +40,10 @@ __What are you__ in this life?
 
 ## My Favorite Websites
 
-[GitHub](https://github.com/Bandera2014/MarkdownTutorial)
+[Youtube](https://www.youtube.com/)
 
 ## Persons of Interest
 
-[Abraham Lincoln](https://en.wikipedia.org/wiki/Abraham_Lincoln)[1]
+[Nolan Arenado][1]<br>
+[Yadier Molina][2]<br>
+[Harrison Bader][3]<br>
